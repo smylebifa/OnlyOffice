@@ -9,6 +9,6 @@ Provide an archive or a link to git with the source code of the solution 3 and 4
 
 ## Result
 
-![Screenshot](Screenshot.PNG)
+1) ![Screenshot](Screenshot.PNG)
 
-![Screenshot2](Screenshot2.PNG)
+2) ![Screenshot2](Screenshot2.PNG)
