@@ -43,7 +43,7 @@
     <header>
         <div class="center">
             <a href="">
-                <img src ="content/images/logo.svg" alt="ONLYOFFICE" />
+                <img src ="content/images/logoNode.png" width="2%" alt="ONLYOFFICE" />
             </a>
         </div>
     </header>
