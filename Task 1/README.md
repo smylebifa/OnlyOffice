@@ -5,3 +5,8 @@
 3) Change the logo on the main page in the test example to any image. Take a screenshot.
 4) Change the logo in the editor. Take a screenshot.
 Provide an archive or a link to git with the source code of the solution 3 and 4 points
+
+
+## Result
+
+[Screenshot](Screenshot.PNG)
