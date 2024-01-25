@@ -9,6 +9,10 @@ Provide an archive or a link to git with the source code of the solution 3 and 4
 
 ## Result
 
+<<<<<<< HEAD
 [Screenshot](Screenshot.PNG)
 
 [Screenshot2](Screenshot2.PNG)
+=======
+![Screenshot](Screenshot.PNG)
+>>>>>>> dca89f82ca4c2dad289aac05d00729b3e6852216
